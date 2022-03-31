@@ -1,12 +1,4 @@
 #!/bin/bash
-#!/bin/bash 
 #!/bin/bash
 #!/bin/bash
-mkdir /tmp/my_first_directory >> 6-firstdirectory
-clear
-q
-git commit -m 6-firstdirectory
-qgit push
-:wq
 mkdir /tmp/my_first_directory
-#!/bin/bash
